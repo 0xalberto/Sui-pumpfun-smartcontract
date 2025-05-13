@@ -48,7 +48,7 @@ Administrative functions allow updating:
 ### If you need some help, please contact me
 ## 🙋‍♂️ Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ: 👋 ##
 
-Telegram: https://t.me/opensea712
+Telegram: https://t.me/soladity
 
 <div style={{display : flex ; justify-content : space-evenly}}> 
     <a href="https://t.me/opensea712" target="_blank"><img alt="Telegram"
